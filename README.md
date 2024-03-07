@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Musransar
+# 👋 Hi, I'm @Mustansar
 
 ## About Me
 I am a dynamic data professional with a profound expertise in AI and mathematics education. My academic journey includes earning dual Master's degrees—an
